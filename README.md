@@ -36,7 +36,7 @@
 
 #### **BrowserRouter**
 
-- 路由器。常规 URL 路径，没有#号在里面。使用浏览器中 History API 处理 URl，创建一个类似 https://cn.pornhub.com/view_video.php?viewkey=ph5ef8cf8e75953 (别打开),这样的真实地址。这种需要服务器处理 URL，因为每次页面的跳转服务器都会接受到来至来 URL 的请求。
+- 路由器。常规 URL 路径，没有#号在里面。使用浏览器中 History API 处理 URl，创建一个类似 https://www.google.com,这样的真实地址。这种需要服务器处理 URL，因为每次页面的跳转服务器都会接受到来至来 URL 的请求。
 
 #### **HashRouter**
 
